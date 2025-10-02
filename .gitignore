@@ -1,0 +1,17 @@
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Arduino build files
+*.hex
+*.bin
+*.elf
+
+# IDE settings
+.vscode/
+.idea/
+
+# Archives
+*.zip
+*.tar
+*.gz
